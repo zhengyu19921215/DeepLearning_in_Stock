@@ -1,2 +1,8 @@
-# DeepLearning_in_Stock
-DeepLearning in Stock Prediction
+# DeepLearning in Stock Prediction
+
+Required:
+- tushare
+- keras
+- PyWavelets
+- pandas
+- numpy
